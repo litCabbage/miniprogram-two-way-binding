@@ -2,9 +2,9 @@
 <input-with-label placeWord="请输入姓名" val="{{name}}" bindchangeVal="componentInput">
   Name：
 </input-with-label>
-{{name}}
+<view>{{name}}</view>
 
 <!-- 非组件实现 -->
 <label>Tel：</label>
 <input placeholder="请输入手机号" val="{{telNumber}}" bindinput="myInput"></input>
-{{telNumber}}
+<view>{{telNumber}}</view>
