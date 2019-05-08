@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "input-with-label": "/components/input-with-label/input-with-label"
+  }
+}

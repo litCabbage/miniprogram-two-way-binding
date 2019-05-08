@@ -1,0 +1,6 @@
+<input-with-label>
+  <label>
+    <slot/>
+  </label>
+  <input placeholder="{{placeWord}}" value="{{val}}" bindinput='inp'></input>
+</input-with-label>
